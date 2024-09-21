@@ -11,19 +11,19 @@ This repository documents my personal challenges on Kaggle, where I engage with 
 
 Here's a list of projects I have tackled to date (the projects contains EDA, Statistical Analysis, Feature Engineering and Modeling):
 
-1. 📊 [Advanced Sales Forecasting Integrating ANOVA and Multiple Linear Regression](Advanced Sales Forecasting Integrating ANOVA and Multiple Linear Regression) : Developed an advanced sales forecasting model by integrating ANOVA and multiple linear regression. Explored data patterns to enhance prediction accuracy, providing valuable insights for strategic advertising and optimizing sales performance.
+1. 📊[Advanced Sales Forecasting Integrating ANOVA and Multiple Linear Regression](Advanced%20Sales%20Forecasting%20Integrating%20ANOVA%20and%20Multiple%20Linear%20Regression) : Developed an advanced sales forecasting model by integrating ANOVA and multiple linear regression. Explored data patterns to enhance prediction accuracy, providing valuable insights for strategic advertising and optimizing sales performance.
 
-2. 🤖 [Binary Classification of Insurance Cross Selling](Binary Classification of Insurance Cross Selling) : Developed a binary classification model using XGBoost classifier to predict bank customer churn rate through insurance cross-selling by exploring customer demographics, policy details, and purchase behaviors.
+2. 🤖[Binary Classification of Insurance Cross Selling](Binary%20Classification%20of%20Insurance%20Cross%20Selling) : Developed a binary classification model using XGBoost classifier to predict bank customer churn rate through insurance cross-selling by exploring customer demographics, policy details, and purchase behaviors.
 
-3. 📊 [Flood Hazard Prediction Using Regression Techniques](Flood Hazard Prediction Using Regression Techniques) : Developed a flood hazard prediction model using regression techniques, explored various data sources to enhance accuracy and reliability of predictions.
+3. 📊[Flood Hazard Prediction Using Regression Techniques](Flood%20Hazard%20Prediction%20Using%20Regression%20Techniques) : Developed a flood hazard prediction model using regression techniques, explored various data sources to enhance accuracy and reliability of predictions.
 
-4. 🛳️ [Taxi Fare Estimator](Taxi Fare Estimator) : Developed a regression model to ex=stimate fare rates of a trip after extensive data cleaning and feature engineering.
+4. 🛳️[Taxi Fare Estimator](Taxi%20Fare%20Estimator) : Developed a regression model to ex=stimate fare rates of a trip after extensive data cleaning and feature engineering.
 
 ## Contact
 
 Thank you for exploring my repository! If you have any questions, suggestions, or just want to connect, feel free to reach out:
   
-- 🌐LinkedIn: [Damanjeet Kaur]([https://www.linkedin.com/in/damanjeet-kaur-928481312/])
+- 🌐LinkedIn: [Damanjeet Kaur](https://www.linkedin.com/in/damanjeet-kaur-928481312/)
 
 I hope you find the projects here helpful and inspiring for your own Kaggle challenges!
 
