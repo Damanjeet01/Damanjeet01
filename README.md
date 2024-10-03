@@ -19,7 +19,7 @@ Here's a list of projects I have tackled to date (the projects contains EDA, Sta
 
 4. 📊[Flood Hazard Prediction Using Regression Techniques](Flood%20Hazard%20Prediction%20Using%20Regression%20Techniques) : Developed a flood hazard prediction model using regression techniques, explored various data sources to enhance accuracy and reliability of predictions.
 
-5. 🛳️[Taxi Fare Estimator](Taxi%20Fare%20Estimator) : Developed a regression model to ex=stimate fare rates of a trip after extensive data cleaning and feature engineering.
+5. 🛳️[Taxi Fare Estimator](Taxi%20Fare%20Estimator) : Developed a regression model to estimate fare rates of a trip after extensive data cleaning and feature engineering.
 
 ## Contact
 
